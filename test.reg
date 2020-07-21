@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_CLASSES_ROOT\*\Shell\Filenote] 
+@="Filenote" 
+
+[HKEY_CLASSES_ROOT\*\Shell\Filenote\Command] 
+@="C:\\Users\\Andy\\Desktop\\test.bat %1%"
